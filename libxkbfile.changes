@@ -1,0 +1,12 @@
+* Sat Feb 27 2010 Anas Nashif <anas.nashif@intel.com> - 1.0.6
+- Updated with latest spectacle
+- Include YAML file in source rpm
+
+* Fri Dec 11 2009 Peng Li <peng.li@intel.com> 1.0.6
+- update to 1.0.6
+
+* Tue Dec 30 2008 Peng Li <peng.li@intel.com> 1.0.5
+- Specbuilderify and update to 1.0.5
+
+* Thu Dec 18 2008 Arjan van de Ven <arjan@linux.intel.com> 1.0.4
+- Don't require xorg-x11-proto-devel; pkgconfig takes care of this
