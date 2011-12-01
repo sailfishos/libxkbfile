@@ -1,6 +1,8 @@
 Name: libxkbfile
 Summary: X.Org X11 libxkbfile runtime library
-Version: 1.0.6
+Description: |
+  %{summary}.
+Version: 1.0.7
 Release: 1
 Group: System/Libraries
 License: MIT
@@ -18,3 +20,5 @@ SubPackages:
       Requires:
           - pkgconfig
 
+      Description: |
+        %{summary}.
